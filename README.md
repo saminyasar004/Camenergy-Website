@@ -6,5 +6,5 @@
 
 This website is created by [Samin Yasar][author]. You can find it [here][live].
 
-[author]: https://www.saminyasar.netlify.app/ "Samin Yasar Portfolio Website"
-[live]: https://www.camenergy.netlify.app/ "Live preview"
+[author]: https://saminyasar.netlify.app/ "Samin Yasar Portfolio Website"
+[live]: https://camenergy.netlify.app/ "Live preview"
