@@ -1,4 +1,4 @@
-# **CamEnergy Website**
+﻿# **CamEnergy Website**
 
 [![Website](https://img.shields.io/website?label=saminyasar%20🚀&name=hello&style=flat&url=https://saminyasar.netlify.app/)](https://saminyasar.netlify.app/)
 [![Github Follow](https://img.shields.io/github/followers/saminyasar004?label=saminyasar004&style=social)](https://github.com/saminyasar004/)
@@ -7,4 +7,4 @@
 This website is created by [Samin Yasar][author]. You can find it [here][live].
 
 [author]: https://www.saminyasar.netlify.app/ "Samin Yasar Portfolio Website"
-[live]: https://camenergy.netlify.app/ "Live preview"
+[live]: https://www.camenergy.netlify.app/ "Live preview"
